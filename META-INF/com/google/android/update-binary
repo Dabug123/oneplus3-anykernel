@@ -70,7 +70,7 @@ ui_print 'Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!'
 ui_print '$R@i.~~ !     :   ~$$$$$B$$en:``"'
 ui_print '?MXT@Wx.~    :     ~"##*$$$$M~'
 ui_print '============================================'
-ui_print '           AK KERNEL - ONEPLUS 3            '
+ui_print '           KronicPlusEX - ONEPLUS 3            '
 ui_print '============================================'
 ui_print ''
 
@@ -126,5 +126,5 @@ fi;
 umount /system;
 umount /data;
 ui_print " ";
-ui_print "Done!";
+ui_print "Flash Kronic!";
 
