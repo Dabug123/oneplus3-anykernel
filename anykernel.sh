@@ -10,9 +10,10 @@ do.modules=1
 do.cleanup=1
 device.name1=OnePlus3
 device.name2=oneplus3
-device.name3=
-device.name4=
-device.name5=
+device.name3=oneplus3t
+device.name4=OnePlus3T
+device.name5=OnePlus 3T
+device.name6=
 
 # shell variables
 block=/dev/block/bootdevice/by-name/boot;
